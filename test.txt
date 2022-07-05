@@ -1,1 +1,2 @@
-it is a lovely day.
+It is a lovely day.
+Is not it?
